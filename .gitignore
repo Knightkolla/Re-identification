@@ -1,0 +1,9 @@
+venv/
+.DS_Store
+*.pyc
+__pycache__/
+best.pt
+input.mp4
+output.mp4
+test_output.mp4
+tracking.csv 
